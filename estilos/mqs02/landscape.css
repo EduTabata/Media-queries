@@ -2,3 +2,8 @@
 
 /* Aparelho deitado ou paisagem*/
 
+body {
+    background: url(../../mq002/imagens/cev-landscape.jpg);
+    background-position: left bottom;
+    background-repeat: no-repeat;
+}
